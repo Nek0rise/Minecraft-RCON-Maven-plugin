@@ -4,7 +4,8 @@ A Maven plugin for executing **RCON commands on a Minecraft server** during the 
 It is primarily used to automate plugin reloads or administrative commands after a successful JAR build.
 
 ---
-<video src="https://raw.githubusercontent.com/Nek0rise/Minecraft-RCON-Maven-plugin/refs/heads/main/media/demo.mp4" height="400" controls></video>
+![Demo](https://github.com/Nek0rise/Minecraft-RCON-Maven-plugin/blob/main/media/demo.gif?raw=true)
+
 ## Features
 
 - Execute **multiple RCON commands** in order
@@ -49,7 +50,7 @@ Add it to your `pom.xml`:
 
 ### Option B - Manual / Offline Installation
 
-1. Download the `.zip` archive from **GitHub Releases**
+1. Download the `.zip` archive from **[Releases](https://github.com/Nek0rise/Minecraft-RCON-Maven-plugin/releases)**
 2. Extract the archive
 3. Run one of the following scripts:
    - **Windows:** `install.bat`
