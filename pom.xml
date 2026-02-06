@@ -21,6 +21,13 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>nek0rise</id> <!--  -->
+            <url>https://repo.codemc.io/repository/nek0rise/</url> <!--  -->
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.maven</groupId>
