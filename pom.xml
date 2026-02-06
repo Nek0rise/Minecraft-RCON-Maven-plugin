@@ -23,8 +23,8 @@
 
     <distributionManagement>
         <repository>
-            <id>nek0rise</id> <!--  -->
-            <url>https://repo.codemc.io/repository/nek0rise/</url> <!--  -->
+            <id>nek0rise</id>
+            <url>https://repo.codemc.io/repository/nek0rise/</url>
         </repository>
     </distributionManagement>
 

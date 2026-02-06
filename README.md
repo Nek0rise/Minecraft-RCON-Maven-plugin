@@ -36,14 +36,17 @@ rcon.port=25575
 
 ## Installation
 
-### Option A - Maven Repository (future)
+### Option A - Maven Repository
 
 Add it to your `pom.xml`:
 
 ```xml
-<pluginRepositories>
-    <!-- TODO: public plugin repository -->
-</pluginRepositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>minecraft-rcon-maven-plugin</id>
+            <url>https://repo.codemc.io/repository/nek0rise/</url>
+        </pluginRepository>
+    </pluginRepositories>
 ```
 
 ---
