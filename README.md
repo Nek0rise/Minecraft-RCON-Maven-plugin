@@ -4,7 +4,7 @@ A Maven plugin for executing **RCON commands on a Minecraft server** during the 
 It is primarily used to automate plugin reloads or administrative commands after a successful JAR build.
 
 ---
-
+<video src="https://raw.githubusercontent.com/Nek0rise/Minecraft-RCON-Maven-plugin/refs/heads/main/media/demo.mp4" height="400" controls></video>
 ## Features
 
 - Execute **multiple RCON commands** in order
